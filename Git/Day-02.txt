@@ -1,1 +1,1 @@
-This is some day02 information
+This is day2 file and added some content
